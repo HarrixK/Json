@@ -1,0 +1,21 @@
+{
+  "Answer": "Huston Rocket",
+  "Q1": "Question",
+  "Question": "Which one is correct team in NBA?",
+  "Quiz": "Quiz",
+  "Sport": "Sport",
+  "objectQuizInfo": [
+    {
+      "Options": "NewYork Bulls"
+    },
+    {
+      "Options": "Los Angeles Kings"
+    },
+    {
+      "Options": "Golden State Warriors"
+    },
+    {
+      "Options": "Huston Rocket"
+    }
+  ]
+}
